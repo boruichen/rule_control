@@ -1,3 +1,7 @@
+ev/
+.ropeproject/
+
+
 *.py[cod]
 
 # C extensions
