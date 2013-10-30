@@ -1,8 +1,9 @@
 ev/
 .ropeproject/
 
-
+*.swp
 *.py[cod]
+old/
 
 # C extensions
 *.so
